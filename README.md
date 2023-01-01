@@ -1,2 +1,2 @@
-# arithmetic_coding
+# Arithmetic Coding 
 Implementation of Arithmetic Coding in Rust
